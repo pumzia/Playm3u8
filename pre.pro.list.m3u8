@@ -1,0 +1,205 @@
+#EXTM3U x-tvg-url="http://201.217.246.42:44310"
+#EXTINF:-1 tvg-name="Telefe" tvg-logo="http://201.217.246.42:44310/images/telefe.png" tvg-id="Telefe.ar" tvg-country="AR" group-title="Argentina",Telefe
+http://201.217.246.42:44310/Live/c202f69675384139af3ad0d0b5373e25/telefe.playlist.m3u8
+#EXTINF:-1 tvg-name="El Trece" tvg-logo="http://201.217.246.42:44310/images/el13.png" tvg-id="ElTrece.ar" tvg-country="AR" group-title="Argentina",El Trece
+http://201.217.246.42:44310/Live/c202f69675384139af3ad0d0b5373e25/eltrece.playlist.m3u8
+#EXTINF:-1 tvg-name="Tv Publica" tvg-logo="http://201.217.246.42:44310/images/tvpublica.png" tvg-id="TvPublica.ar" tvg-country="AR" group-title="Argentina",Tv Publica
+http://201.217.246.42:44310/Live/c202f69675384139af3ad0d0b5373e25/tvpublica.playlist.m3u8
+#EXTINF:-1 tvg-name="Tn " tvg-logo="http://201.217.246.42:44310/images/tn.png" tvg-id="Tn.ar" tvg-country="AR" group-title="Argentina",Tn
+http://201.217.246.42:44310/Live/c202f69675384139af3ad0d0b5373e25/tn.playlist.m3u8
+#EXTINF:-1 tvg-name="DeporTV" tvg-logo="http://201.217.246.42:44310/images/deportv.png" tvg-id="DeporTv.ar" tvg-country="AR" group-title="Argentina",DeporTV
+http://201.217.246.42:44310/Live/c202f69675384139af3ad0d0b5373e25/deportv.playlist.m3u8
+#EXTINF:-1 tvg-name="C5N" tvg-logo="http://201.217.246.42:44310/images/c5n.png" tvg-id="C5N.ar" tvg-country="AR" group-title="Argentina",C5N
+http://201.217.246.42:44310/Live/c202f69675384139af3ad0d0b5373e25/c5n.playlist.m3u8
+#EXTINF:-1 tvg-name="Cronica TV" tvg-logo="http://201.217.246.42:44310/images/CronicaTv.png" tvg-id="CronicaTV.ar" tvg-country="AR" group-title="Argentina",Cronica TV
+http://201.217.246.42:44310/Live/c202f69675384139af3ad0d0b5373e25/CronicaTv.playlist.m3u8
+#EXTINF:-1 tvg-name="A24" tvg-logo="http://201.217.246.42:44310/images/A24.png" tvg-id="A24.ar" tvg-country="AR" group-title="Argentina",A24
+http://201.217.246.42:44310/Live/c202f69675384139af3ad0d0b5373e25/a24.playlist.m3u8
+#EXTINF:-1 tvg-name="AR 12" tvg-logo="http://201.217.246.42:44310/images/AR12.png" tvg-id="AR12.ar" tvg-country="AR" group-title="Argentina",AR 12
+http://201.217.246.42:44310/Live/c202f69675384139af3ad0d0b5373e25/local-21.playlist.m3u8
+#EXTINF:-1 tvg-name="LN +" tvg-logo="http://201.217.246.42:44310/images/LN.png" tvg-id="LN.ar" tvg-country="AR" group-title="Argentina",LN +
+http://201.217.246.42:44310/Live/c202f69675384139af3ad0d0b5373e25/lntv.playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 26" tvg-logo="http://201.217.246.42:44310/images/canal26.png" tvg-id="Canal26.ar" tvg-country="AR" group-title="Argentina",Canal 26
+http://201.217.246.42:44310/Live/c202f69675384139af3ad0d0b5373e25/c26.playlist.m3u8
+#EXTINF:-1 tvg-name="Garage TV" tvg-logo="http://201.217.246.42:44310/images/GarageTV.png" tvg-id="GarageTV.ar" tvg-country="AR" group-title="Argentina",Garage TV
+http://201.217.246.42:44310/Live/c202f69675384139af3ad0d0b5373e25/garage.playlist.m3u8
+#EXTINF:-1 tvg-name="Telemax" tvg-logo="http://201.217.246.42:44310/images/telemax.png" tvg-id="Telemax.ar" tvg-country="AR" group-title="Argentina",Telemax
+http://201.217.246.42:44310/Live/c202f69675384139af3ad0d0b5373e25/telemax.playlist.m3u8
+#EXTINF:-1 tvg-name="Multivision" tvg-logo="http://201.217.246.42:44310/images/Multivision.png" tvg-id="Multivision.ar" tvg-country="AR" group-title="Argentina",Multivision
+http://201.217.246.42:44310/Live/c202f69675384139af3ad0d0b5373e25/Multivision.playlist.m3u8
+#EXTINF:-1 tvg-name="Ciudadmagazine" tvg-logo="http://201.217.246.42:44310/images/Ciudadmagazine.png" tvg-id="Ciudadmagazine.ar" tvg-country="AR" group-title="Argentina",Ciudadmagazine
+http://201.217.246.42:44310/Live/c202f69675384139af3ad0d0b5373e25/ciudadmagazine.playlist.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="http://201.217.246.42:44310/images/CNNesp.png" tvg-id="CNN.ar" tvg-country="AR" group-title="Argentina",CNN
+http://201.217.246.42:44310/Live/c202f69675384139af3ad0d0b5373e25/CNNesp.playlist.m3u8
+#EXTINF:-1 tvg-name="Canal Net" tvg-logo="http://201.217.246.42:44310/images/net-tv.png" tvg-id="CanalNet.ar" tvg-country="AR" group-title="Argentina",Canal Net
+http://201.217.246.42:44310/Live/c202f69675384139af3ad0d0b5373e25/CanalNet.playlist.m3u8
+#EXTINF:-1 tvg-name="Nueve Litoral" tvg-logo="http://201.217.246.42:44310/images/NueveLitoral.png" tvg-id="NueveLitoral.ar" tvg-country="AR" group-title="Argentina",Nueve Litoral
+http://201.217.246.42:44310/Live/c202f69675384139af3ad0d0b5373e25/nuevelitoral.playlist.m3u8
+#EXTINF:-1 tvg-name="Somos Santa Fe" tvg-logo="http://201.217.246.42:44310/images/SomosSantaFe.png" tvg-id="SomosSantaFe.ar" tvg-country="AR" group-title="Argentina",Somos Santa Fe
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-12.playlist.m3u8
+#EXTINF:-1 tvg-name="Santa Fe Canal" tvg-logo="http://201.217.246.42:44310/images/Santa_Fe_Canal.png" tvg-id="SantaFeCanal.ar" tvg-country="AR" group-title="Argentina",Santa Fe Canal
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-13.playlist.m3u8
+#EXTINF:-1 tvg-name="E!" tvg-logo="http://201.217.246.42:44310/images/e.png" tvg-id="e.ar" tvg-country="AR" group-title="Argentina",E!
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-14.playlist.m3u8
+#EXTINF:-1 tvg-name="Canal a" tvg-logo="http://201.217.246.42:44310/images/Canal_a.png" tvg-id="CanalA.ar" tvg-country="AR" group-title="Argentina",Canal a
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-15.playlist.m3u8
+#EXTINF:-1 tvg-name="Canal 9" tvg-logo="http://201.217.246.42:44310/images/canal9.png" tvg-id="Canal9.ar" tvg-country="AR" group-title="Argentina",Canal 9
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-16.playlist.m3u8
+#EXTINF:-1 tvg-name="America TV" tvg-logo="http://201.217.246.42:44310/images/america.png" tvg-id="AmericaTV.ar" tvg-country="AR" group-title="Argentina",America TV
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-17.playlist.m3u8
+#EXTINF:-1 tvg-name="Cine AR" tvg-logo="http://201.217.246.42:44310/images/cinear.png" tvg-id="CineAR.ar" tvg-country="AR" group-title="Argentina",Cine AR
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-20.playlist.m3u8
+#EXTINF:-1 tvg-name="TVE" tvg-logo="http://201.217.246.42:44310/images/TVE.png" tvg-id="TVE.ar" tvg-country="AR" group-title="Argentina",TVE
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-23.playlist.m3u8
+#EXTINF:-1 tvg-name="El Gourmet" tvg-logo="http://201.217.246.42:44310/images/elgourmet.png" tvg-id="ElGourmet.ar" tvg-country="AR" group-title="Argentina",El Gourmet
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-25.playlist.m3u8
+#EXTINF:-1 tvg-name="Lifetime" tvg-logo="http://201.217.246.42:44310/images/Lifetime.png" tvg-id="Lifetime.ar" tvg-country="AR" group-title="Argentina",Lifetime
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/Lifetime.playlist.m3u8
+#EXTINF:-1 tvg-name="Telemundo" tvg-logo="http://201.217.246.42:44310/images/Telemundo.png" tvg-id="Telemundo.ar" tvg-country="AR" group-title="Argentina",Telemundo
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-26.playlist.m3u8
+#EXTINF:-1 tvg-name="Las Estrellas" tvg-logo="http://201.217.246.42:44310/images/las-estrellas.png" tvg-id="LasEstrellas.ar" tvg-country="AR" group-title="Argentina",Las Estrellas
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/lasestrellas.playlist.m3u8
+#EXTINF:-1 tvg-name="Cartoonito" tvg-logo="http://201.217.246.42:44310/images/Cartoonito.png" tvg-id="Cartoonito.ar" tvg-country="AR" group-title="Argentina",Cartoonito
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-30.playlist.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="http://201.217.246.42:44310/images/CartoonNetwork.png" tvg-id="CartoonNetwork.ar" tvg-country="AR" group-title="Argentina",Cartoon Network
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-31.playlist.m3u8
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="http://201.217.246.42:44310/images/DisneyChannel.png" tvg-id="DisneyChannel.ar" tvg-country="AR" group-title="Argentina",Disney Channel
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-32.playlist.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="http://201.217.246.42:44310/images/Nickelodeon.png" tvg-id="Nickelodeon.ar" tvg-country="AR" group-title="Argentina",Nickelodeon
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-33.playlist.m3u8
+#EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="http://201.217.246.42:44310/images/DiscoveryKids.png" tvg-id="DiscoveryKids.ar" tvg-country="AR" group-title="Argentina",Discovery Kids
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-34.playlist.m3u8
+#EXTINF:-1 tvg-name="Disney Junior" tvg-logo="http://201.217.246.42:44310/images/DisneyJunior.png" tvg-id="DisneyJunior.ar" tvg-country="AR" group-title="Argentina",Disney Junior
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-35.playlist.m3u8
+#EXTINF:-1 tvg-name="Paka Paka" tvg-logo="http://201.217.246.42:44310/images/pakapaka.png" tvg-id="PakaPaka.ar" tvg-country="AR" group-title="Argentina",Paka Paka
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-36.playlist.m3u8
+#EXTINF:-1 tvg-name="History Channel" tvg-logo="http://201.217.246.42:44310/images/HistoryChannel.png" tvg-id="HistoryChannel.ar" tvg-country="AR" group-title="Argentina",History Channel
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-40.playlist.m3u8
+#EXTINF:-1 tvg-name="History Channel 2" tvg-logo="http://201.217.246.42:44310/images/history2.png" tvg-id="HistoryChannel2.ar" tvg-country="AR" group-title="Argentina",History Channel 2
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-41.playlist.m3u8
+#EXTINF:-1 tvg-name="History Channel 2" tvg-logo="http://201.217.246.42:44310/images/InvestigationDiscovery.png" tvg-id="InvestigationDiscovery.ar" tvg-country="AR" group-title="Argentina",Investigation Discovery
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-42.playlist.m3u8
+#EXTINF:-1 tvg-name="h&h" tvg-logo="http://201.217.246.42:44310/images/h&h.png" tvg-id="h&h.ar" tvg-country="AR" group-title="Argentina",h&h
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-43.playlist.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="http://201.217.246.42:44310/images/DiscoveryChannel.png" tvg-id="DiscoveryChannel.ar" tvg-country="AR" group-title="Argentina",Discovery Channel
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-44.playlist.m3u8
+#EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="http://201.217.246.42:44310/images/DiscoveryTurbo.png" tvg-id="DiscoveryTurbo.ar" tvg-country="AR" group-title="Argentina",Discovery Turbo
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-99.playlist.m3u8
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="http://201.217.246.42:44310/images/animalplanet.png" tvg-id="AnimalPlanet.ar" tvg-country="AR" group-title="Argentina",Animal Planet
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-45.playlist.m3u8
+#EXTINF:-1 tvg-name="National Geographic" tvg-logo="http://201.217.246.42:44310/images/NationalGeographic.png" tvg-id="NationalGeographic.ar" tvg-country="AR" group-title="Argentina",National Geographic
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-46.playlist.m3u8
+#EXTINF:-1 tvg-name="MTV" tvg-logo="http://201.217.246.42:44310/images/mtvhd.png" tvg-id="MTV.ar" tvg-country="AR" group-title="Argentina",MTV
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-50.playlist.m3u8
+#EXTINF:-1 tvg-name="Quiero Musica" tvg-logo="http://201.217.246.42:44310/images/qmusica.png" tvg-id="QuieroMusica.ar" tvg-country="AR" group-title="Argentina",Quiero Musica
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-51.playlist.m3u8
+#EXTINF:-1 tvg-name="Stingray Concerts" tvg-logo="http://201.217.246.42:44310/images/StingrayConcerts.png" tvg-id="StingrayConcerts.ar" tvg-country="AR" group-title="Argentina",Stingray Concerts
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-111.playlist.m3u8
+#EXTINF:-1 tvg-name="Metro" tvg-logo="http://201.217.246.42:44310/images/metro.png" tvg-id="Metro.ar" tvg-country="AR" group-title="Argentina",Metro
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-53.playlist.m3u8
+#EXTINF:-1 tvg-name="KZO" tvg-logo="http://201.217.246.42:44310/images/KZO.png" tvg-id="KZO.ar" tvg-country="AR" group-title="Argentina",KZO
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-52.playlist.m3u8
+#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="http://201.217.246.42:44310/images/comedycentral.png" tvg-id="ComedyCentral.ar" tvg-country="AR" group-title="Argentina",Comedy Central
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-60.playlist.m3u8
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="http://201.217.246.42:44310/images/cinemax.png" tvg-id="Cinemax.ar" tvg-country="AR" group-title="Argentina",Cinemax
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-61.playlist.m3u8
+#EXTINF:-1 tvg-name="Cinecanal" tvg-logo="http://201.217.246.42:44310/images/cinecanal.png" tvg-id="Cinecanal.ar" tvg-country="AR" group-title="Argentina",Cinecanal
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-62.playlist.m3u8
+#EXTINF:-1 tvg-name="TNT Series" tvg-logo="http://201.217.246.42:44310/images/tntseries.png" tvg-id="TNTSeries.ar" tvg-country="AR" group-title="Argentina",TNT Series
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-64.playlist.m3u8
+#EXTINF:-1 tvg-name="TNT Novelas" tvg-logo="http://201.217.246.42:44310/images/TNT_Novelas.png" tvg-id="TNTNovelas.ar" tvg-country="AR" group-title="Argentina",TNT Novelas
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-65.playlist.m3u8
+#EXTINF:-1 tvg-name="TNT" tvg-logo="http://201.217.246.42:44310/images/tnt.png" tvg-id="TNT.ar" tvg-country="AR" group-title="Argentina",TNT
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-66.playlist.m3u8
+#EXTINF:-1 tvg-name="Studio Universal" tvg-logo="http://201.217.246.42:44310/images/studiouniversal.png" tvg-id="StudioUniversal.ar" tvg-country="AR" group-title="Argentina",Studio Universal
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-67.playlist.m3u8
+#EXTINF:-1 tvg-name="Star Channel" tvg-logo="http://201.217.246.42:44310/images/StarChannel.png" tvg-id="StarChannel.ar" tvg-country="AR" group-title="Argentina",Star Channel
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-68.playlist.m3u8
+#EXTINF:-1 tvg-name="Space" tvg-logo="http://201.217.246.42:44310/images/Space.png" tvg-id="Space.ar" tvg-country="AR" group-title="Argentina",Space
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-69.playlist.m3u8
+#EXTINF:-1 tvg-name="Sony" tvg-logo="http://201.217.246.42:44310/images/sony.png" tvg-id="Sony.ar" tvg-country="AR" group-title="Argentina",Sony
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-70.playlist.m3u8
+#EXTINF:-1 tvg-name="AyE" tvg-logo="http://201.217.246.42:44310/images/AyE.png" tvg-id="AyE.ar" tvg-country="AR" group-title="Argentina",AyE
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-71.playlist.m3u8
+#EXTINF:-1 tvg-name="Filmy & Arts" tvg-logo="http://201.217.246.42:44310/images/FilmyArts.png" tvg-id="FilmyArts.ar" tvg-country="AR" group-title="Argentina",Filmy & Arts
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-FilmyArt.playlist.m3u8
+#EXTINF:-1 tvg-name="Paramount" tvg-logo="http://201.217.246.42:44310/images/Paramount.png" tvg-id="Paramount.ar" tvg-country="AR" group-title="Argentina",Paramount
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-72.playlist.m3u8
+#EXTINF:-1 tvg-name="TLC" tvg-logo="http://201.217.246.42:44310/images/TLC.png" tvg-id="TLC.ar" tvg-country="AR" group-title="Argentina",TLC
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/tlc.playlist.m3u8
+#EXTINF:-1 tvg-name="Warner Channel" tvg-logo="http://201.217.246.42:44310/images/warner.png" tvg-id="WarnerChannel.ar" tvg-country="AR" group-title="Argentina",Warner Channel
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-73.playlist.m3u8
+#EXTINF:-1 tvg-name="Volver" tvg-logo="http://201.217.246.42:44310/images/volver.png" tvg-id="Volver.ar" tvg-country="AR" group-title="Argentina",Volver
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-74.playlist.m3u8
+#EXTINF:-1 tvg-name="Universal Channel" tvg-logo="http://201.217.246.42:44310/images/UniversalChannel.png" tvg-id="UniversalChannel.ar" tvg-country="AR" group-title="Argentina",Universal Channel
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-75.playlist.m3u8
+#EXTINF:-1 tvg-name="AMC" tvg-logo="http://201.217.246.42:44310/images/amc.png" tvg-id="AMC.ar" tvg-country="AR" group-title="Argentina",AMC
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-76.playlist.m3u8
+#EXTINF:-1 tvg-name="AXN" tvg-logo="http://201.217.246.42:44310/images/axn.png" tvg-id="AXN.ar" tvg-country="AR" group-title="Argentina",AXN
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-77.playlist.m3u8
+#EXTINF:-1 tvg-name="FX" tvg-logo="http://201.217.246.42:44310/images/FX.png" tvg-id="FX.ar" tvg-country="AR" group-title="Argentina",FX
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-78.playlist.m3u8
+#EXTINF:-1 tvg-name="TCM" tvg-logo="http://201.217.246.42:44310/images/tcm.png" tvg-id="TCM.ar" tvg-country="AR" group-title="Argentina",TCM
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-79.playlist.m3u8
+#EXTINF:-1 tvg-name="Bravo" tvg-logo="http://201.217.246.42:44310/images/Bravo.png" tvg-id="Bravo.ar" tvg-country="AR" group-title="Argentina",Bravo
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-80.playlist.m3u8
+#EXTINF:-1 tvg-name="HBO" tvg-logo="http://201.217.246.42:44310/images/hbo.png" tvg-id="HBO.ar" tvg-country="AR" group-title="Argentina",HBO
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-102.playlist.m3u8
+#EXTINF:-1 tvg-name="HBO Plus" tvg-logo="http://201.217.246.42:44310/images/HBOPlus.png" tvg-id="HBOPlus.ar" tvg-country="AR" group-title="Argentina",HBO Plus
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-109.playlist.m3u8
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="http://201.217.246.42:44310/images/HBOFamily.png" tvg-id="HBOFamily.ar" tvg-country="AR" group-title="Argentina",HBO Family
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-101.playlist.m3u8
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="http://201.217.246.42:44310/images/HBOSignature.png" tvg-id="HBOFamily.ar" tvg-country="AR" group-title="Argentina",HBO Signature
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-107.playlist.m3u8
+#EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="http://201.217.246.42:44310/images/HBOXtreme.png" tvg-id="HBOXtreme.ar" tvg-country="AR" group-title="Argentina",HBO Xtreme
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-103.playlist.m3u8
+#EXTINF:-1 tvg-name="HBO Mundi" tvg-logo="http://201.217.246.42:44310/images/HBOMundi.png" tvg-id="HBOMundi.ar" tvg-country="AR" group-title="Argentina",HBO Mundi
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-110.playlist.m3u8
+#EXTINF:-1 tvg-name="HBO Pop" tvg-logo="http://201.217.246.42:44310/images/HBOPop.png" tvg-id="HBOPop.ar" tvg-country="AR" group-title="Argentina",HBO Pop
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-108.playlist.m3u8
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="http://201.217.246.42:44310/images/hbo2.png" tvg-id="HBO2.ar" tvg-country="AR" group-title="Argentina",HBO 2
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-105.playlist.m3u8
+#EXTINF:-1 tvg-name="Evento 1" tvg-logo="http://201.217.246.42:44310/images/evento1.png" tvg-id="Evento1.ar" tvg-country="AR" group-title="Argentina",Evento 1
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-01.playlist.m3u8
+#EXTINF:-1 tvg-name="Evento 2" tvg-logo="http://201.217.246.42:44310/images/evento2.png" tvg-id="Evento2.ar" tvg-country="AR" group-title="Argentina",Evento 2
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-02.playlist.m3u8
+#EXTINF:-1 tvg-name="Evento 3" tvg-logo="http://201.217.246.42:44310/images/evento3.png" tvg-id="Evento3.ar" tvg-country="AR" group-title="Argentina",Evento 3
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-03.playlist.m3u8
+#EXTINF:-1 tvg-name="Evento 4" tvg-logo="http://201.217.246.42:44310/images/evento4.png" tvg-id="Evento4.ar" tvg-country="AR" group-title="Argentina",Evento 4
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-04.playlist.m3u8
+#EXTINF:-1 tvg-name="Evento 5" tvg-logo="http://201.217.246.42:44310/images/evento5.png" tvg-id="Evento5.ar" tvg-country="AR" group-title="Argentina",Evento 5
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-05.playlist.m3u8
+#EXTINF:-1 tvg-name="Evento 6" tvg-logo="http://201.217.246.42:44310/images/evento6.png" tvg-id="Evento6.ar" tvg-country="AR" group-title="Argentina",Evento 6
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-06.playlist.m3u8
+#EXTINF:-1 tvg-name="Evento 7" tvg-logo="http://201.217.246.42:44310/images/evento7.png" tvg-id="Evento7.ar" tvg-country="AR" group-title="Argentina",Evento 7
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-e07.playlist.m3u8
+#EXTINF:-1 tvg-name="Evento 8" tvg-logo="http://201.217.246.42:44310/images/evento8.png" tvg-id="Evento8.ar" tvg-country="AR" group-title="Argentina",Evento 8
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-e08.playlist.m3u8
+#EXTINF:-1 tvg-name="Evento 9" tvg-logo="http://201.217.246.42:44310/images/evento9.png" tvg-id="Evento9.ar" tvg-country="AR" group-title="Argentina",Evento 9
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-e09.playlist.m3u8
+#EXTINF:-1 tvg-name="Evento 10" tvg-logo="http://201.217.246.42:44310/images/evento10.png" tvg-id="Evento10.ar" tvg-country="AR" group-title="Argentina",Evento 10
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-e10.playlist.m3u8
+#EXTINF:-1 tvg-name="Evento 11" tvg-logo="http://201.217.246.42:44310/images/evento11.png" tvg-id="Evento11.ar" tvg-country="AR" group-title="Argentina",Evento 11
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-e11.playlist.m3u8
+#EXTINF:-1 tvg-name="Evento 12" tvg-logo="http://201.217.246.42:44310/images/evento12.png" tvg-id="Evento12.ar" tvg-country="AR" group-title="Argentina",Evento 12
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-e12.playlist.m3u8
+#EXTINF:-1 tvg-name="Tyc Sports" tvg-logo="http://201.217.246.42:44310/images/TycSports.png" tvg-id="TycSports.ar" tvg-country="AR" group-title="Argentina",Tyc Sports
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-90.playlist.m3u8
+#EXTINF:-1 tvg-name="Fox Sports" tvg-logo="http://201.217.246.42:44310/images/foxsports.png" tvg-id="FoxSports.ar" tvg-country="AR" group-title="Argentina",Fox Sports
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-91.playlist.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 2" tvg-logo="http://201.217.246.42:44310/images/foxsports2.png" tvg-id="FoxSports2.ar" tvg-country="AR" group-title="Argentina",Fox Sports 2
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-93.playlist.m3u8
+#EXTINF:-1 tvg-name="Fox Sports 3" tvg-logo="http://201.217.246.42:44310/images/FoxSports3.png" tvg-id="FoxSports3.ar" tvg-country="AR" group-title="Argentina",Fox Sports 3
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-92.playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="http://201.217.246.42:44310/images/espn.png" tvg-id="ESPN.ar" tvg-country="AR" group-title="Argentina",ESPN
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-94.playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="http://201.217.246.42:44310/images/espn2.png" tvg-id="ESPN2.ar" tvg-country="AR" group-title="Argentina",ESPN 2
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-97.playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="http://201.217.246.42:44310/images/espn3.png" tvg-id="ESPN3.ar" tvg-country="AR" group-title="Argentina",ESPN 3
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-96.playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="http://201.217.246.42:44310/images/espn4.png" tvg-id="ESPN4.ar" tvg-country="AR" group-title="Argentina",ESPN 4
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-95.playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN 5" tvg-logo="http://201.217.246.42:44310/images/espn5.png" tvg-id="ESPN5.ar" tvg-country="AR" group-title="Argentina",ESPN 5
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-104.playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN 7" tvg-logo="http://201.217.246.42:44310/images/espn7.png" tvg-id="ESPN7.ar" tvg-country="AR" group-title="Argentina",ESPN 7
+http://201.217.246.42:44310/Live/17b5be75bab6b1b79790d36f4ed75788/local-106.playlist.m3u8
